@@ -5,11 +5,11 @@ You will learn about what migrating means. Let's begin ...
 ### First graph ###
 
 <p align="center">
-  <img src="Persons deported (France, low estimate).png" width="350"/>
+  <img src="Persons deported (France, low estimate).png" width="550"/>
 </p>
 
 <p align="center">
-  <img src="Deportation (chosen countries).png" width="350"/>
+  <img src="Deportation (chosen countries).png" width="550"/>
 </p>
 
 
