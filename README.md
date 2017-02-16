@@ -8,6 +8,11 @@ You will learn about what migrating means. Let's begin ...
   <img src="Persons deported (France, low estimate).png" width="350"/>
 </p>
 
+<p align="center">
+  <img src="Deportation (chosen countries).png" width="350"/>
+</p>
+
+
 ### Contributors from ENSAE ParisTech
 
 Aliénor Anido, Quentin Cavalan, Adeline Guéret and Irène Hu. 
