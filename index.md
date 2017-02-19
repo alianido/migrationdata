@@ -4,19 +4,11 @@ You will learn about what migrating means. Let's begin ...
 <link rel="stylesheet" href="main.css" /> <!-- Précise que ce fichier est lié à un fichier css pour la mise en forme -->
 
 ### First graph ###
-<p align="center">
-  <img src="Persons deported (France, low estimate).png" width="550" title="Nombre de personnes déportées chaque années en France"/>
-</p>
 
 <figure>
 	<img src="Persons deported (France, low estimate).png" alt="ceci est Nathan" title="Nathan qui meurt"> 
 	<figcaption style="color: red;">Ceci est Nathan</figcaption>
 </figure>
-
-
-<p align="center">
-  <img src="Deportation (chosen countries).png" width="550"/>
-</p>
 
 
 ### Contributors from ENSAE ParisTech
