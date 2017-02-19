@@ -8,3 +8,7 @@ figcaption {
     border: dotted blue;
     text-align: center;
 }
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
