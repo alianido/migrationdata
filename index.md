@@ -1,13 +1,5 @@
-
-<!-- Deux parties à toute page web: le corps et le head -->
-<html>
-    <head>
-        <meta charset="utf-8" /> 
-        <link rel="stylesheet" href="main.css" /> <!-- Précise que ce fichier est lié à un fichier css pour la mise en forme -->
-        <title>Migrations</title>
-    </head>
-
-    <body>
+<link rel="stylesheet" href="main.css" /> <!-- Précise que ce fichier est lié à un fichier css pour la mise en forme -->
+<body>
 
 ## Welcome to our page
 
@@ -57,4 +49,4 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
  </body>
-</html>
+
