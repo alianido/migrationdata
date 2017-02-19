@@ -4,7 +4,6 @@ You will learn about what migrating means. Let's begin ...
 <link rel="stylesheet" href="main.css" /> <!-- Précise que ce fichier est lié à un fichier css pour la mise en forme -->
 
 ### First graph ###
-<h1> Ceci est un titre </h1>
 <p align="center">
   <img src="Persons deported (France, low estimate).png" width="550"/>
 </p>
