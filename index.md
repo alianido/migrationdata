@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- Deux parties à toute page web: le corps et le head -->
 <html>
     <head>
