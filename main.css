@@ -1,7 +1,10 @@
 h1 
 { color: purple;}
 
-figure figcaption {
+figure {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
     border: dotted blue;
     text-align: center;
 }
