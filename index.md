@@ -8,15 +8,14 @@ You will learn about what migrating means. Let's begin ...
 
 <div style="align: left; text-align:center;">
   <img  src="Persons deported (France, low estimate).png" width="550"/>
-<span style="display:block;color: red;">Nombre de personnes expulsées en France</span>
+<span style="display:block;color: purple;">Nombre de personnes expulsées en France</span>
 </div>
-<br />
 <br />
 
 
 <div style="align: left; text-align:center;">
   <img  src="Deportation (chosen countries).png" width="550"/>
-<span style="display:block;color: red;">Nombre de personnes expulsées par an en France, Italie, Grèce et Allemagne</span>
+<span style="display:block;color: rgb(201,50,50);">Nombre de personnes expulsées par an en France, Italie, Grèce et Allemagne</span>
 </div>
 <br />
 ### Contributors from ENSAE ParisTech
