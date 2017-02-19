@@ -5,7 +5,7 @@ You will learn about what migrating means. Let's begin ...
 
 ### First graph ###
 <p align="center">
-  <img src="Persons deported (France, low estimate).png" width="550"/>
+  <img src="Persons deported (France, low estimate).png" width="550" title="Nombre de personnes déportées chaque années en France"/>
 </p>
 
 <p align="center">
