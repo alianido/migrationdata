@@ -1,10 +1,10 @@
 h1 
 { color: purple;}
 
-figure {
+figurecaption {
     margin-left: auto;
     margin-right: auto;
-    width: 100em;
+    width: 1em;
     border: dotted blue;
     text-align: center;
 }
