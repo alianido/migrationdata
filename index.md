@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="main.css" /> <!-- Précise que ce fichier est lié à un fichier css pour la mise en forme -->
-<body>
-
 ## Welcome to our page
 
 You will learn about what migrating means. Let's begin ...
@@ -47,6 +44,4 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
- </body>
 
