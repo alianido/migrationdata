@@ -4,14 +4,14 @@ You will learn about what migrating means. Let's begin ...
 <link rel="stylesheet" href="main.css" /> <!-- Précise que ce fichier est lié à un fichier css pour la mise en forme -->
 
 ### First graph ###
-<figure class="centre">
-  <img  src="Persons deported (France, low estimate).png" width="550"/>
-  <figcaption style="color: red;">Nombre de personnes expulsées en France</figcaption>
+<figure>
+  <img  class="centre" src="Persons deported (France, low estimate).png" width="550"/>
+  <figcaption class="caption" style="color: red;">Nombre de personnes expulsées en France</figcaption>
 </figure>
 
-<figure class="centre">
-  <img src="Deportation (chosen countries).png" width="550"/>
-<figcaption style="color: red;">Nombre de personnes expulsées par an en France, Italie, Grèce et Allemagne</figcaption>
+<figure>
+  <img class="centre" src="Deportation (chosen countries).png" width="550"/>
+<figcaption class="caption" style="color: red;">Nombre de personnes expulsées par an en France, Italie, Grèce et Allemagne</figcaption>
 
 </figure>
 
