@@ -5,12 +5,12 @@ You will learn about what migrating means. Let's begin ...
 
 ### First graph ###
 <figure>
-  <img src="Persons deported (France, low estimate).png" width="550"/>
+  <img class="centre" src="Persons deported (France, low estimate).png" width="550"/>
   <figcaption style="color: red;">Nombre de personnes expulsées en France</figcaption>
 </figure>
 
 <figure>
-  <img src="Deportation (chosen countries).png" width="550"/>
+  <img class="centre" src="Deportation (chosen countries).png" width="550"/>
 <figcaption style="color: red;">Nombre de personnes expulsées par an en France, Italie, Grèce et Allemagne</figcaption>
 
 </figure>
