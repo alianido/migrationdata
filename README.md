@@ -3,7 +3,7 @@
 You will learn about what migrating means. Let's begin ...
 
 ### First graph ###
-<h1> Ceci est un titre <h1>
+<h1> Ceci est un titre </h1>
 <p align="center">
   <img src="Persons deported (France, low estimate).png" width="550"/>
 </p>
