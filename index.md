@@ -6,9 +6,10 @@ You will learn about what migrating means. Let's begin ...
 ### First graph ###
 <div style="align: left; text-align:center;">
   <img  src="Persons deported (France, low estimate).png" width="550"/>
-<span>Nombre de personnes expulsées en France</span>
+<span style="display:block;">Nombre de personnes expulsées en France</span>
 </div>
-
+<br />
+<br />
 
 
 <div style="align: left; text-align:center;">
