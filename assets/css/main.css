@@ -2727,7 +2727,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgba(53, 56, 73, 0.95);
+		background-color: rgba(211, 21, 21, 0.5);
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -3270,7 +3270,7 @@
 	}
 
 	.wrapper {
-		background-color: #2e3141;
+		background-color: rgb(201,98,98);
 		margin: 6.5em 0;
 		position: relative;
 	}
