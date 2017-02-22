@@ -7,7 +7,7 @@ You will learn about what migrating means. Let's begin ...
 
 <div style="align: left; text-align:center;">
   <img  src="Persons deported (France, low estimate).png" width="550"/>
-<span style="display:block;color: rgb(201,50,50);">Nombre de personnes expulsées en France</span>
+<span style="display:block;color: rgb(201,199,50);">Nombre de personnes expulsées en France</span>
 </div>
 <br />
 
